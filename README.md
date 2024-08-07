@@ -1,3 +1,30 @@
+
+
+# Overview
+This project is an asssement which I received from one company where users can select an icon from a given box of icons. When an icon is picked, it is displayed in a section just below the box. This project demonstrates basic interactive UI functionality using web technologies.
+
+
+
+![Screenshot 2024-08-08 044008](https://github.com/user-attachments/assets/c8879ddc-c7c2-4647-bc43-a6913d656751)
+
+
+# Features
+
+A box containing a selection of icons.
+Interactive icon selection.
+Display of the selected icon in a designated area below the box.
+
+# Technologies Used
+CSS
+ReactJS
+NodeJs
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
